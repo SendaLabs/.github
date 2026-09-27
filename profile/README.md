@@ -1,4 +1,4 @@
-🇪🇸 Leer en español
+🇪🇸 [Leer en español](./README.es.md)
 
 # <div align="center">
 

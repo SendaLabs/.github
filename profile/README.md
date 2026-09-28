@@ -34,5 +34,5 @@ Senda is under active development on the Stellar Testnet. In the `senda-backend`
 
 ## Links
 
-- Live app: `[COMPLETE: Actual URL, or bot WhatsApp link — wa.me/...]`
-- Documentation: `[COMPLETE: Actual URL, if applicable]`
+- Live app: https://withsenda.site/
+- Documentation: https://withsenda.site/docs
